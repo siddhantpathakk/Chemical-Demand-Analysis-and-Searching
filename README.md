@@ -4,6 +4,7 @@ This was meant as an entry level submission for the iNTUition v7.0, a hackathon 
 
 ## Team Details
 <b> Team Name </b> : HPHeroes
+
 <b> Team Members </b> : Quok Zi Long Devon, Siddhant Pathak, Krystal, Wen Goh
 
 ## Problem Statement
